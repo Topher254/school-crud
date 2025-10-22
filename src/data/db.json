@@ -1,22 +1,46 @@
-{"students":[
-  {
-    "id": 1,
-    "name": "Sarota Raphael",
-    "place": "Juja",
-    "phone": "0712345678"
-  },
-  {
-    "id": 2,
-    "name": "David Yuop",
-    "place": "Nairobi",
-    "phone": "0798765432"
-  },
-  {
-    "id": 3,
-    "name": "Grace Wanjiku",
-    "place": "Kisumu",
-    "phone": "0700112233"
-  }
-  
-]
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sarota Raphael",
+      "place": "Juja",
+      "phone": "0712345678"
+    },
+    {
+      "id": 2,
+      "name": "David Yuop",
+      "place": "Nairobi",
+      "phone": "0798765432"
+    },
+    {
+      "id": 3,
+      "name": "Grace Wanjiku",
+      "place": "Kisumu",
+      "phone": "0700112233"
+    },
+    {
+      "id": "38",
+      "name": "Sarota Raphael",
+      "place": "juja",
+      "phone": "9083624"
+    },
+    {
+      "id": "34",
+      "name": "omoisi",
+      "place": "juja",
+      "phone": "9083624"
+    },
+    {
+      "id": "89",
+      "name": "test",
+      "place": "test",
+      "phone": "2324"
+    },
+    {
+      "id": "45",
+      "name": "againest t",
+      "place": "rdgjh",
+      "phone": "123"
+    }
+  ]
 }

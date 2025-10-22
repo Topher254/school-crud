@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Button = (props) => {
-    const baseStyles = 'px-4 text-white py-2 rounded-full shadow font-bold';
+    const baseStyles = 'px-4 text-white py-1 rounded-full shadow font-bold';
     let variantStyles='';
     let buttonSize="";
 
