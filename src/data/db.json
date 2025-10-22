@@ -1,0 +1,22 @@
+{"students":[
+  {
+    "id": 1,
+    "name": "Sarota Raphael",
+    "place": "Juja",
+    "phone": "0712345678"
+  },
+  {
+    "id": 2,
+    "name": "David Yuop",
+    "place": "Nairobi",
+    "phone": "0798765432"
+  },
+  {
+    "id": 3,
+    "name": "Grace Wanjiku",
+    "place": "Kisumu",
+    "phone": "0700112233"
+  }
+  
+]
+}
